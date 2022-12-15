@@ -5,4 +5,4 @@ Python server – server2
 
 数据采集：client发送震动数据（time – x – y – z），server接收
 预处理、识别：server
-结果返回：server返回，client接收（线程存在问题，需要手动显示结果）
+结果返回：server返回，client接收
